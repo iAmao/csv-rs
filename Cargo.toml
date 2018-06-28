@@ -1,0 +1,6 @@
+[package]
+name = "csv-rs"
+version = "0.1.0"
+authors = ["Inumidun Amao <inumidun.amao@andela.com>"]
+
+[dependencies]
